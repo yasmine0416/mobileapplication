@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "737791113537",
+    "project_id": "fir-51b29",
+    "storage_bucket": "fir-51b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737791113537:android:ad43bda355a6ef851509c0",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737791113537-iiqrb9a35r5eqbosqb8ksbt08i78i7mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDXDA31bcCI0dVKDHuiwtlsPwMsyIldg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737791113537-iiqrb9a35r5eqbosqb8ksbt08i78i7mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737791113537:android:80d313350f4a1cf81509c0",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737791113537-iiqrb9a35r5eqbosqb8ksbt08i78i7mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDXDA31bcCI0dVKDHuiwtlsPwMsyIldg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737791113537-iiqrb9a35r5eqbosqb8ksbt08i78i7mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

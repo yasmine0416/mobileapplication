@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_ma_cellule.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\ma_cellule.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_up_arrow.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_my_project.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\my_project.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable__683834703105.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\_683834703105.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-merged_res-35:/layout_controls_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-37:/layout/controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_activity_login2.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout-w1240dp_activity_login2.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout-w1240dp\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_up_arroww.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\up_arroww.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable-v24_tfl_logo.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable-v24\\tfl_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_fragment_audio.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_ajouterproduit.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\ajouterproduit.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable__683834703122.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\_683834703122.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_item_probability.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_n.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\n.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout_controls_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_tfl_logo.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\tfl_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\layout-w936dp_activity_login2.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout-w936dp\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable__683834703121.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\_683834703121.png"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-merged_res-35:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\drawable\\icn_chevron_up.png"
+    }
+]

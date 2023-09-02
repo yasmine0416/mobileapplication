@@ -1,0 +1,216 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.audio"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:6:5-71
+11-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:8:5-77
+13-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:8:22-74
+14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+14-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:9:5-85
+14-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:9:22-82
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:24:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:10:5-30:19
+21        android:allowBackup="true"
+21-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:11:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.6.0] C:\Users\welly\.gradle\caches\transforms-3\bbd2620a323b1a13a5750743051aa12f\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:12:9-43
+26        android:label="@string/app_name"
+26-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:13:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:14:9-54
+28        android:supportsRtl="true"
+28-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:15:9-35
+29        android:taskAffinity=""
+29-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:16:9-32
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:17:9-40
+32        <activity
+32-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:19:9-28:20
+33            android:name="org.tensorflow.lite.examples.audio.MainActivity"
+33-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:20:13-41
+34            android:exported="true"
+34-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:21:13-36
+35            android:screenOrientation="portrait" >
+35-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:22:13-49
+36            <intent-filter>
+36-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:23:13-27:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:24:17-69
+37-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:24:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:26:17-77
+39-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:26:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <service android:name="org.tensorflow.lite.examples.audio.MainActivity$Companion$MyService" />
+43-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:29:9-69
+43-->C:\Users\welly\Documents\GitHub\examples\lite\examples\audio_classification\android\app\src\main\AndroidManifest.xml:29:18-66
+44        <service
+44-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:8:9-14:19
+45            android:name="com.google.firebase.components.ComponentDiscoveryService"
+45-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:9:13-84
+46            android:directBootAware="true"
+46-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+47            android:exported="false" >
+47-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:10:13-37
+48            <meta-data
+48-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:11:13-13:85
+49                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+49-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:12:17-116
+50                android:value="com.google.firebase.components.ComponentRegistrar" />
+50-->[com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\1afa8dabfc2b76b819bb636ec9dd4b49\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:13:17-82
+51            <meta-data
+51-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\b32295aa1555f951267b566224c3613e\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+52                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+52-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\b32295aa1555f951267b566224c3613e\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:15:17-124
+53                android:value="com.google.firebase.components.ComponentRegistrar" />
+53-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\b32295aa1555f951267b566224c3613e\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:16:17-82
+54            <meta-data
+54-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\e8ee336f11ae022b665a06a840cd7e20\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+55                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+55-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\e8ee336f11ae022b665a06a840cd7e20\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\e8ee336f11ae022b665a06a840cd7e20\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+57            <meta-data
+57-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:67:13-69:85
+58                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+58-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:68:17-109
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:69:17-82
+60            <meta-data
+60-->[com.google.firebase:firebase-database:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\5eac4a3fe8fd923b40c879e8705d5d3b\transformed\firebase-database-20.2.0\AndroidManifest.xml:31:13-33:85
+61                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+61-->[com.google.firebase:firebase-database:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\5eac4a3fe8fd923b40c879e8705d5d3b\transformed\firebase-database-20.2.0\AndroidManifest.xml:32:17-109
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-database:20.2.0] C:\Users\welly\.gradle\caches\transforms-3\5eac4a3fe8fd923b40c879e8705d5d3b\transformed\firebase-database-20.2.0\AndroidManifest.xml:33:17-82
+63        </service>
+64
+65        <activity
+65-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:27:9-44:20
+66            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+66-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:28:13-80
+67            android:excludeFromRecents="true"
+67-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:29:13-46
+68            android:exported="true"
+68-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:30:13-36
+69            android:launchMode="singleTask"
+69-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:31:13-44
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+70-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:32:13-72
+71            <intent-filter>
+71-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:33:13-43:29
+72                <action android:name="android.intent.action.VIEW" />
+72-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:17-69
+72-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:25-66
+73
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:17-76
+74-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:27-73
+75                <category android:name="android.intent.category.BROWSABLE" />
+75-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:17-78
+75-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:27-75
+76
+77                <data
+77-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:39:17-42:51
+78                    android:host="firebase.auth"
+78-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:40:21-49
+79                    android:path="/"
+79-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:41:21-37
+80                    android:scheme="genericidp" />
+80-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:42:21-48
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:45:9-62:20
+84            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+84-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:46:13-79
+85            android:excludeFromRecents="true"
+85-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:47:13-46
+86            android:exported="true"
+86-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:48:13-36
+87            android:launchMode="singleTask"
+87-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:49:13-44
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+88-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:50:13-72
+89            <intent-filter>
+89-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:51:13-61:29
+90                <action android:name="android.intent.action.VIEW" />
+90-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:17-69
+90-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:25-66
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:17-76
+92-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:27-73
+93                <category android:name="android.intent.category.BROWSABLE" />
+93-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:17-78
+93-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:27-75
+94
+95                <data
+95-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:39:17-42:51
+96                    android:host="firebase.auth"
+96-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:40:21-49
+97                    android:path="/"
+97-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:41:21-37
+98                    android:scheme="recaptcha" />
+98-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\welly\.gradle\caches\transforms-3\03af086d0b3e42a5e7bc0202eea14759\transformed\firebase-auth-21.0.3\AndroidManifest.xml:42:21-48
+99            </intent-filter>
+100        </activity>
+101        <activity
+101-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\bafb456748a49d650c1875cedbbaf07d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+102            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+102-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\bafb456748a49d650c1875cedbbaf07d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+103            android:exported="false"
+103-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\bafb456748a49d650c1875cedbbaf07d\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+104-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\bafb456748a49d650c1875cedbbaf07d\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+105
+106        <provider
+106-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+107            android:name="com.google.firebase.provider.FirebaseInitProvider"
+107-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+108            android:authorities="org.tensorflow.lite.examples.audio.firebaseinitprovider"
+108-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+109            android:directBootAware="true"
+109-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+110            android:exported="false"
+110-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+111            android:initOrder="100" />
+111-->[com.google.firebase:firebase-common:20.3.2] C:\Users\welly\.gradle\caches\transforms-3\b6717b431818a36503d7228de4863f11\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\d4c630326ff4a3bc5773f13d8236a178\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\d4c630326ff4a3bc5773f13d8236a178\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\welly\.gradle\caches\transforms-3\d4c630326ff4a3bc5773f13d8236a178\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+116    </application>
+117
+118</manifest>

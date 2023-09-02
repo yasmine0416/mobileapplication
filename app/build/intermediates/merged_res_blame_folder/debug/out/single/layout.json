@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\n.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\n.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\activity_login2.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:/layout/controls_bottom_sheet.xml",
+        "source": "org.tensorflow.lite.examples.audio.app-main-37:/layout/controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\item_probability.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\ajouterproduit.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\ajouterproduit.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\ma_cellule.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\ma_cellule.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\fragment_audio.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\controls_bottom_sheet.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\welly\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.audio.app-main-37:\\layout\\activity_main.xml"
+    }
+]

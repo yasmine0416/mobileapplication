@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-mergeDebugResources-34:/layout-w1240dp-v13/activity_login2.xml",
+        "source": "org.tensorflow.lite.examples.audio.app-main-37:/layout-w1240dp/activity_login2.xml"
+    }
+]
